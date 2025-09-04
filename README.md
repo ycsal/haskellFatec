@@ -1,4 +1,4 @@
-# 💻 Aulas de Haskell – FATEC (6º Ciclo ADS)
+# Aulas de Haskell – FATEC (6º Ciclo ADS)
 
 Este repositório contém os códigos, exercícios e anotações das aulas de **Haskell** que estou estudando no 6º ciclo do curso de **Análise e Desenvolvimento de Sistemas** na **FATEC – Rubens Lara**.  
 
@@ -6,7 +6,7 @@ O objetivo é registrar minha evolução na linguagem funcional Haskell.
 
 ---
 
-## 📚 Conteúdo
+## Conteúdo
 - Tipos e Funções
 - Recursividade
 - Listas e Tuplas
@@ -16,7 +16,7 @@ O objetivo é registrar minha evolução na linguagem funcional Haskell.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 - **Haskell** (compilador GHC)
 - **GHCi** para execução interativa
 - **VS Code** como IDE de apoio
