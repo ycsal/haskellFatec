@@ -74,4 +74,4 @@ data Moeda = Moeda{
     correncia :: Correncia
 } deriving show
 
--- finalizar codigo com erro
+-- corrigir codigo com erro
